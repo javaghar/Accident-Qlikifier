@@ -15,13 +15,11 @@ By using Qlik sense performing analysis
    8-https://74ed3taxl6mw4pc.sg.qlikcloud.com/dataset/665c2876c4fd790e2aad3747
    9-https://74ed3taxl6mw4pc.sg.qlikcloud.com/dataset/665c289891b875abc8aa5197
 
-   Here is the Qliksense app GD-link  : https://74ed3taxl6mw4pc.sg.qlikcloud.com/sense/app/b815a544-772b-4967-8436-01eed9c06b07
-
-4. Demonstration video link
+3. Demonstration video link
    Here is the GD-link : https://drive.google.com/drive/folders/1p3ydLD8t-bWsp0fMlnoNRKg-M6dvczhJ?usp=sharing
 
 
-5. Project Documentation
+4. Project Documentation
    Here is the PDF : [SI-581-1716476125 (1).pdf](https://github.com/user-attachments/files/15753036/SI-581-1716476125.1.pdf)
 
 
@@ -30,7 +28,7 @@ By using Qlik sense performing analysis
                      2.[STORIES.pdf](https://github.com/user-attachments/files/15753056/STORIES.pdf)
 
 
-                     javaghar
+                     
 
 
     
