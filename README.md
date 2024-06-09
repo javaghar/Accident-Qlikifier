@@ -15,6 +15,11 @@ By using Qlik sense performing analysis
    Here is the PDF : [SI-581-1716476125 (1).pdf](https://github.com/user-attachments/files/15753036/SI-581-1716476125.1.pdf)
 
 
+5.Visualizations
+   Here is the PDF : 1.[Visualizations.pdf](https://github.com/user-attachments/files/15753050/Visualizations.pdf)
+                     2.[STORIES.pdf](https://github.com/user-attachments/files/15753056/STORIES.pdf)
+
+
     
 
 
